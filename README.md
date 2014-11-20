@@ -1,3 +1,5 @@
+Use https://github.com/tokenly/xcpd-client for the most up-to-date version.
+
 The XCPDClient component for UTipdMe.
 
 
